@@ -1,1 +1,2 @@
 # AI-project
+pratice jenkins
